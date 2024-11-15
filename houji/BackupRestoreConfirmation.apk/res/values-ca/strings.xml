@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="allow_backup_button_label">Crear una còpia de seguretat de les meves dades</string>
+    <string name="allow_restore_button_label">Restaurar les meves dades</string>
+    <string name="backup_confirm_text">"S'ha sol·licitat una còpia de seguretat completa de totes les dades a un ordinador d'escriptori connectat. Vols permetre que això passi?
+
+Si no heu sol·licitat la còpia de seguretat vosaltres mateixos, no permeteu que l'operació continuï."</string>
+    <string name="backup_confirm_title">Còpia de seguretat completa</string>
+    <string name="backup_enc_password_optional">Si voleu xifrar les dades completes de la còpia de seguretat, introduïu una contrasenya següent:</string>
+    <string name="backup_enc_password_text">Introduïu una contrasenya per xifrar les dades completes de la còpia de seguretat. Si es deixa en blanc, s\'utilitzarà la contrasenya de còpia de seguretat actual:</string>
+    <string name="current_password_text">Introduïu la vostra contrasenya de còpia de seguretat actual a continuació:</string>
+    <string name="deny_backup_button_label">No feu còpies de seguretat</string>
+    <string name="deny_restore_button_label">No restaurar</string>
+    <string name="device_encryption_backup_text">Introduïu la contrasenya d\'encriptació del dispositiu a continuació. Això també s\'utilitzarà per xifrar l\'arxiu de còpia de seguretat.</string>
+    <string name="device_encryption_restore_text">Introduïu la contrasenya d\'encriptació del dispositiu a continuació.</string>
+    <string name="restore_confirm_text">"S'ha sol·licitat una restauració completa de totes les dades d'un ordinador d'escriptori connectat. Vols permetre que això passi?
+
+Si no heu sol·licitat la restauració vosaltres mateixos, no permeteu que l'operació continuï. Això substituirà les dades que hi ha actualment al dispositiu."</string>
+    <string name="restore_confirm_title">Restauració completa</string>
+    <string name="restore_enc_password_text">Si les dades de restauració estan xifrades, introduïu la contrasenya següent:</string>
+    <string name="toast_backup_ended">Còpia de seguretat finalitzada</string>
+    <string name="toast_backup_started">S\'està iniciant la còpia de seguretat...</string>
+    <string name="toast_restore_ended">Restauració finalitzada</string>
+    <string name="toast_restore_started">Restaura l\'inici...</string>
+    <string name="toast_timeout">S\'ha esgotat el temps d\'espera de l\'operació</string>
+</resources>
