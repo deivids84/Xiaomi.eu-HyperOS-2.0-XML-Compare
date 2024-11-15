@@ -1,0 +1,3 @@
+files:
+  - source: /houji/**/values/
+    translation: /houji/**/values-%two_letters_code%/%original_file_name%
