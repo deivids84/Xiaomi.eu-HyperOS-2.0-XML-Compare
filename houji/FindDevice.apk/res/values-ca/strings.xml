@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activate_xiaomi_account">Activa aquest dispositiu</string>
+    <string name="activate_xiaomi_account_guide">Continua a la pantalla interior</string>
+    <string name="adding_or_updating_account">Actualització del compte…</string>
+    <string name="androidx_startup">androidx.inici</string>
+    <string name="app_name">Cerca un dispositiu</string>
+    <string name="call_notification_answer_action">Resposta</string>
+    <string name="call_notification_answer_video_action">Vídeo</string>
+    <string name="call_notification_decline_action">Declinar</string>
+    <string name="call_notification_hang_up_action">Penjar</string>
+    <string name="call_notification_incoming_text">Trucada entrant</string>
+    <string name="call_notification_ongoing_text">Convocatòria en curs</string>
+    <string name="call_notification_screening_text">Filtració d\'una trucada entrant</string>
+    <string name="captcha">Captcha</string>
+    <string name="change_find_device_status_failed">"No s'ha pogut desbloquejar. %s."</string>
+    <string name="common_google_play_services_enable_button">Habilitar</string>
+    <string name="common_google_play_services_enable_text">"%1$s no funcionarà tret que activis els serveis de Google Play."</string>
+    <string name="common_google_play_services_enable_title">Activar els serveis de Google Play</string>
+    <string name="common_google_play_services_install_button">Instal·lar</string>
+    <string name="common_google_play_services_install_text">"%1$s no s'executaran sense els serveis de Google Play, que falten al dispositiu."</string>
+    <string name="common_google_play_services_install_title">Obtenir serveis de Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilitat dels serveis de Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Error dels serveis de Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s té problemes amb els serveis de Google Play. Si us plau, torneu-ho a provar.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s no s'executarà sense els serveis de Google Play, que no són compatibles amb el dispositiu."</string>
+    <string name="common_google_play_services_update_button">Actualitzar</string>
+    <string name="common_google_play_services_update_text">"%1$s no s'executarà tret que actualitzis els serveis de Google Play."</string>
+    <string name="common_google_play_services_update_title">Actualitzar els serveis de Google Play</string>
+    <string name="common_google_play_services_updating_text">"%1$s no s'executaran sense els serveis de Google Play, que s'estan actualitzant actualment."</string>
+    <string name="common_google_play_services_wear_update_text">Es necessita una versió nova dels serveis de Google Play. S\'actualitzarà en breu.</string>
+    <string name="common_open_on_phone">Obrir al telèfon</string>
+    <string name="common_signin_button_text">Registra\'t</string>
+    <string name="common_signin_button_text_long">Iniciar la sessió amb Google</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">"Per accedir al número de telèfon per localitzar aquest dispositiu quan no està connectat a Internet"</string>
+    <string name="custom_define_permission_desc_android.permission.SEND_SMS">"Per localitzar aquest dispositiu quan no està connectat a Internet"</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Per localitzar el dispositiu i canviar al mode Perdut</string>
+    <string name="default_debt_msg_words">"Aquest dispositiu està bloquejat a causa d'un pagament fraccionat vençut.
+Poseu-vos en contacte amb el vostre agent de vendes per obtenir més informació."</string>
+    <string name="default_lock_msg_words">Aquest dispositiu està associat a un compte Xiaomi existent. Per motius de seguretat, heu d\'introduir la contrasenya per verificar el dispositiu.</string>
+    <string name="default_lock_msg_words_with_phone">Hola! He perdut aquest dispositiu. Podries contactar amb mi? Gràcies!</string>
+    <string name="default_web_client_id">630236635882-e9rqvpt2onbe87uramm8stt7v375of1e.apps.googleusercontent.com</string>
+    <string name="device_locked">Aquest dispositiu està bloquejat</string>
+    <string name="device_lost">Aquest dispositiu s\'ha perdut</string>
+    <string name="disable_find_device_error">"No s'ha pogut desactivar Cerca dispositiu. %1$s"</string>
+    <string name="disable_find_device_success">Cerca el dispositiu està desactivat</string>
+    <string name="doing_extra_login_steps">Verificació de l\'inici de sessió…</string>
+    <string name="emergency_call">Trucada d\'emergència</string>
+    <string name="enable_find_device_error">"No s'ha pogut activar Cerca el dispositiu. %1$s"</string>
+    <string name="enable_find_device_success">Cerca el dispositiu està activat</string>
+    <string name="fcm_fallback_notification_channel_label">Miscel·lani</string>
+    <string name="find_device_capture_done_notification_content">Veure la foto a i.mi.com</string>
+    <string name="find_device_capture_done_notification_title">Cerca un dispositiu va fer una foto de forma remota</string>
+    <string name="find_device_capture_notification_content">El vostre compte ha enviat una sol·licitud per fer una foto de forma remota amb aquest dispositiu</string>
+    <string name="find_device_capture_notification_title">Cerca un dispositiu que està a punt de fer una foto</string>
+    <string name="find_device_crash">Cerqueu el dispositiu tancat inesperadament.</string>
+    <string name="find_device_error_access_denied">Accés denegat.</string>
+    <string name="find_device_error_account_sys_timeout">"No s'ha pogut connectar al compte Xiaomi."</string>
+    <string name="find_device_error_account_unknown_error">Error del compte Xiaomi (%s).</string>
+    <string name="find_device_error_custom">%s</string>
+    <string name="find_device_error_network">Error de xarxa.</string>
+    <string name="find_device_error_password_changed">La contrasenya del compte s\'ha canviat recentment.</string>
+    <string name="find_device_error_server">Error del servidor (%s).</string>
+    <string name="find_device_error_unknown">Error desconegut (%s).</string>
+    <string name="find_device_noise_title">Cerca l\'alarma del dispositiu</string>
+    <string name="find_device_notice">Si falta el dispositiu, podeu visitar &lt;b&gt;&lt;font color=#0099FF&gt;i.mi.com&lt;/font&gt;&lt;/b&gt; per localitzar, bloquejar o esborrar dades de forma remota.</string>
+    <string name="find_device_notice_sms_alert_with_common_charge_hint">"Per actualitzar l'estat de la SIM i assegurar-se que tots els serveis funcionen amb normalitat, un &lt;font color=#0097FF&gt;&lt;b&gt;Missatge de text de pagament&lt;/b&gt;&lt;/font&gt; s'enviaran després de canviar de targeta SIM. El teu operador de telefonia mòbil et cobrarà per aquest missatge."</string>
+    <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"Per actualitzar l'estat de la SIM i assegurar-se que tots els serveis funcionen amb normalitat, un &lt;font color=#0097FF&gt;&lt;b&gt;Missatge de text de pagament nacional&lt;/b&gt;&lt;/font&gt; s'enviaran després de canviar de targeta SIM. El teu operador de telefonia mòbil et cobrarà per aquest missatge."</string>
+    <string name="find_device_notice_sms_alert_with_internal_charge_hint">"Per actualitzar l'estat de la SIM i assegurar-se que tots els serveis funcionen amb normalitat, un &lt;font color=#0097FF&gt;&lt;b&gt;Missatge de text de pagament internacional&lt;/b&gt;&lt;/font&gt; s'enviaran després de canviar de targeta SIM. El teu operador de telefonia mòbil et cobrarà per aquest missatge."</string>
+    <string name="find_device_stop_noise">Toca D\'acord per silenciar</string>
+    <string name="find_device_storage_corrupted">Cerqueu l\'emmagatzematge del dispositiu danyat. El dispositiu no és segur ara.</string>
+    <string name="find_device_success_title">Cerca el dispositiu està activat</string>
+    <string name="find_device_telephony_fault">Cerca el dispositiu: Error de telefonia (%s).</string>
+    <string name="gcm_defaultSenderId">630236635882</string>
+    <string name="google_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
+    <string name="google_app_id">1:630236635882:android:29cce928e80a9a6b96ed93</string>
+    <string name="google_crash_reporting_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
+    <string name="google_storage_bucket">micloud-43705.appspot.com</string>
+    <string name="i_know">D\'ACORD</string>
+    <string name="lock_msg_phone">Informació de contacte: %s</string>
+    <string name="login_extra_steps">Verificació d\'inici de sessió</string>
+    <string name="login_failed">"No s'ha pogut iniciar la sessió. %s."</string>
+    <string name="notification_locate_device">Localització de dispositius</string>
+    <string name="notification_open_find">Activada Cerca dispositiu</string>
+    <string name="open_wifi_settings">Obre la configuració de Wi-Fi</string>
+    <string name="open_wifi_settings_china">Obre la configuració de Wi-Fi</string>
+    <string name="passport_checking_vcode">Comprovació de la contrasenya…</string>
+    <string name="passport_error_empty_vcode">Introdueix el codi de verificació</string>
+    <string name="passport_notification_need_unlock_again">Torna a provar de desbloquejar</string>
+    <string name="passport_notification_processing">Processament…</string>
+    <string name="passport_trust_device">Confia en aquest dispositiu</string>
+    <string name="passport_vcode_prompt_long">Introdueix el codi de verificació</string>
+    <string name="passport_verify">Verificar</string>
+    <string name="password">Introduïu la contrasenya</string>
+    <string name="phone_locked">Aquest dispositiu està associat a un compte Xiaomi (%s). Introduïu la contrasenya per activar el dispositiu.</string>
+    <string name="phone_locked_account_email">, correu electrònic associat: %s</string>
+    <string name="phone_locked_account_phone">, número de telèfon associat: %s</string>
+    <string name="project_id">micloud-43705</string>
+    <string name="required_permissions">android.permission.READ_PHONE_STATE; android.permission.ACCESS_FINE_LOCATION; android.permission.ACCESS_BACKGROUND_LOCATION; android.permission.ACCESS_COARSE_LOCATION; android.permission.SEND_SMS</string>
+    <string name="return_to_call">Tornar a la trucada</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_on_empty_captcha">"Captcha no pot estar en blanc"</string>
+    <string name="stop_on_empty_password">"La contrasenya no pot estar en blanc"</string>
+    <string name="sys_notification_async_open_failed_content">Toca per tornar-ho a provar o cancel·lar.</string>
+    <string name="sys_notification_async_open_failed_title">"No s'ha pogut activar Cerca dispositiu"</string>
+    <string name="sys_notification_async_verify_content">La nostra política de seguretat actualitzada requereix que es reactivi el dispositiu Cerca.</string>
+    <string name="sys_notification_async_verify_title">Tornar a activar Cerca dispositiu</string>
+    <string name="talkback_back">Esquena</string>
+    <string name="talkback_hide_pwd">Amaga la contrasenya</string>
+    <string name="talkback_show_pwd">Mostra la contrasenya</string>
+    <string name="time_correction_failure">"No es pot corregir l'hora. %s"</string>
+    <string name="time_correction_success">Temps corregit</string>
+    <string name="unlock">Activar</string>
+    <string name="unlock_access_denied">Accés denegat</string>
+    <string name="unlock_bad_authentication">Nom d\'usuari o contrasenya no vàlids</string>
+    <string name="unlock_error_abort">Cancel·lat per l\'usuari</string>
+    <string name="unlock_error_device_id">"No es pot obtenir l'identificador del dispositiu"</string>
+    <string name="unlock_error_interrupted">Interromput</string>
+    <string name="unlock_error_network">"No es pot connectar a la xarxa"</string>
+    <string name="unlock_error_rpc">Error RPC</string>
+    <string name="unlock_error_server">Error del servidor</string>
+    <string name="unlock_error_unknown">"No puc iniciar la sessió"</string>
+    <string name="unlock_error_user_name">Nom d\'usuari no vàlid</string>
+    <string name="unlock_error_wrong_vcode">El codi que heu introduït és incorrecte</string>
+    <string name="unlock_help">"Connecteu-vos a la xarxa.
+Introdueix una targeta SIM que funcioni i no et connectis a xarxes Wi-Fi no vàlides.
+
+Has oblidat la contrasenya?
+Aneu a id.mi.com, seleccioneu \"Heu oblidat la contrasenya?\" i seguiu les instruccions.
+
+No pots activar el dispositiu?
+Aneu a i.mi.com/ss i envieu la vostra sol·licitud per desbloquejar el dispositiu."</string>
+    <string name="unlock_help_china">"Connecteu-vos a la xarxa.
+Introdueix una targeta SIM que funcioni i no et connectis a xarxes Wi-Fi no vàlides.
+
+Has oblidat la contrasenya?
+Aneu a id.mi.com, seleccioneu \"Heu oblidat la contrasenya?\" i seguiu les instruccions.
+
+No pots activar el dispositiu?
+Aneu a i.mi.com/ss i envieu la vostra sol·licitud per desbloquejar el dispositiu."</string>
+    <string name="unlock_help_title">Ajuda per desbloquejar:</string>
+    <string name="unlock_number">Codi de desbloqueig: %s</string>
+    <string name="unlock_wrong_captcha">El codi que heu introduït és incorrecte</string>
+    <string name="unlocking">Activar…</string>
+    <string name="verifing_account">Verificació de la contrasenya…</string>
+    <string name="verify_password_failed">"No s'ha pogut verificar l'identificador del compte Xiaomi. %s."</string>
+</resources>
