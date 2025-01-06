@@ -228,12 +228,14 @@
     <string name="chinese_symbol_animals_snake">蛇</string>
     <string name="chinese_symbol_animals_tiger">虎</string>
     <string name="clearable_edittext_clear_description">Clar</string>
+    <string name="clip_notification_close_summary">Deixeu de rebre recordatoris quan una aplicació accedeix al porta-retalls?</string>
+    <string name="clip_notification_close_title">Desactivar els recordatoris d\'accés al porta-retalls</string>
     <string name="clipboard_ai_allow_once">S\'ha permès que %1$s accedeixi automàticament als elements del porta-retalls</string>
     <string name="clipboard_ai_allow_tip">已智能允许%1$s读取剪贴板中的%2$s</string>
     <string name="clipboard_may_sensitive">Informació possiblement sensible</string>
     <string name="clipboard_read_ai_deny_once">Accés restringit al porta-retalls per a %1$s</string>
     <string name="clipboard_read_deny_dialog_title">Accés restringit al porta-retalls per a %1$s</string>
-    <string name="close">Tancar</string>
+    <string name="close">Apaga</string>
     <string name="copy">Còpia</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Estableix la data i l\'hora</string>
@@ -441,6 +443,7 @@
     <string name="not_set">No configurat</string>
     <string name="notification_click_tip">Toqueu per veure els detalls</string>
     <string name="ok">D\'acord</string>
+    <string name="overlay_read_clip_toast">\"%1$s\" va accedir al porta-retalls</string>
     <string name="perm_action_allow">Permetre</string>
     <string name="perm_action_deny">No permetis mai</string>
     <string name="perm_educate_post_notification">Les notificacions poden anar acompanyades de so i vibració tal com apareixen a l\'ombra Notificació i a les icones de la pantalla d\'inici. Pots canviar les teves preferències de notificació a Configuració.</string>
@@ -456,6 +459,7 @@
     <string name="permdesc_location_background">Vols permetre que %1$s accedeixi a la informació d\'ubicació en segon pla?</string>
     <string name="permdesc_microphone">Vols permetre que %1$s utilitzi el micròfon per gravar àudio?</string>
     <string name="permdesc_nearby_devices">Vols permetre que %1$s descobri i es connecti als dispositius propers?</string>
+    <string name="permdesc_nearby_wifi_devices">Permeteu que aquesta aplicació es connecti a dispositius propers mitjançant Wi-Fi, els transmeti i determini la seva ubicació relativa.</string>
     <string name="permdesc_post_notification">Vols permetre que %1$s enviï notificacions?</string>
     <string name="permdesc_process_outgoing_call">Vols permetre que %1$s respongui i finalitzi les trucades?</string>
     <string name="permdesc_read_calendar">Vols permetre que %1$s accedeixi als esdeveniments de Calendar?</string>
