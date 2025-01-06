@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">fa 1 hora</item>
+        <item quantity="other">fa 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">%d fa hora</item>
+        <item quantity="other">%d fa hora</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Fa mitja hora</item>
+        <item quantity="other">Fa mitja hora</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Dins %d hora</item>
+        <item quantity="other">Dins %d hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">En mitja hora</item>
+        <item quantity="other">En mitja hora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Immediatament</item>
+        <item quantity="other">Immediatament</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">Dins %d Minuts</item>
+        <item quantity="one">Dins %d min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Ara mateix</item>
+        <item quantity="other">Ara mateix</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d fa minuts</item>
+        <item quantity="one">%d fa un minut</item>
+    </plurals>
+    <plurals name="aiSearch_buildDB_dialog_analysis_completed_progress_time">
+        <item quantity="other">%1$s completar. Sobre %2$s minuts restants.</item>
+        <item quantity="one">%1$s completar. Sobre %2$s minut restant.</item>
+    </plurals>
+    <plurals name="aiSearch_buildDB_dialog_secondary_confirmation_content">
+        <item quantity="other">L\'anàlisi prendrà aproximadament %1$s minuts per completar. És possible que el dispositiu s\'escalfi o consumeixi una mica més d\'energia durant aquest procés. Comenceu ara?</item>
+        <item quantity="one">L\'anàlisi prendrà aproximadament %1$s minut per completar. És possible que el dispositiu s\'escalfi o consumeixi una mica més d\'energia durant aquest procés. Comenceu ara?</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Fa mitja hora</item>
+        <item quantity="other">Fa mitja hora</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">En 1 hora</item>
+        <item quantity="other">En 1 hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">En mitja hora</item>
+        <item quantity="other">En mitja hora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Immediatament</item>
+        <item quantity="other">Immediatament</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">dins %d Minuts</item>
+        <item quantity="one">en 1 minut</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Ara mateix</item>
+        <item quantity="other">Ara mateix</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d Articles seleccionats</item>
+        <item quantity="one">%d Element seleccionat</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d Noves notificacions</item>
+        <item quantity="one">%d Nova notificació</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d fa minuts</item>
+        <item quantity="one">fa 1 minut</item>
+    </plurals>
+    <plurals name="showStatusBar_executeHabit_count">
+        <item quantity="other">Executat %d Patrons</item>
+        <item quantity="one">Executat %d patró</item>
+    </plurals>
+</resources>
